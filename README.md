@@ -1,2 +1,2 @@
-# alunaThais
-Projeto Aluna Thais 2b NEM Colégio Estadual Arthur de Azevedo São João do Ivaí- PR
+# site-html-1-trimestre
+Site do  Colégio Estadual Arthur de Azevedo
